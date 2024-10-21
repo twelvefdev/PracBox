@@ -25,6 +25,7 @@ prac_tbots - Adds 5 T Bots.
 prac_kickbots - Kicks all bots.  
 
 prac_freezebots - Freezes all bots.   
+ - Bots are using AI from deathmatch at the highest difficulty.
 
 prac_godmode - Toggles 'God Mode'.  
 
@@ -66,10 +67,7 @@ prac_collision - Toggles 'Teammate Collisions'.
 
 prac_throwpreview - Toggles 'Grenade Throw Preview'.    
 
-prac_recoil_on - Turns ON 'Crosshair Follow Recoil'.
-
-prac_recoil_off - Turns OFF 'Crosshair Follow Recoil'.
- - Please keep in mind that if you do not disable it, this will be enabled everywhere. Ex. FACEIT
+prac_recoil - Toggles 'Crosshair Follow Recoil'.
 
 prac_pause - Pauses the match. * Only 'Test Match'      
 
