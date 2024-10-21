@@ -86,7 +86,7 @@ prac_custom - Executes custom settings for the tool.
 
 prac_settings - Shows in console current game settings.
 
-prac_help - Shows again this panel with all commands.
+prac_help - Shows a panel with command list and other features.
 
 prac_multiplayer - Shows how to play multiplayer.
 
