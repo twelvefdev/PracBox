@@ -11,16 +11,16 @@ Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, ea
 6. 'csgo'
 7. 'cfg'
 8. Put the 'practice_tool' folder there.
-9. If you do have an 'autoexec.cfg' (if not create one) and put there: alias prac "exec practice_tool/practice_tool"
+9. The config contains a ready 'autoexec.cfg' if you already have one, please copy it's content to yours. 
 10. Done.
 ## How to use?
 After installation, launch any map with Competitive game mode and type in console 'prac'. The config will then launch.
 Any successful changes will give a sound cue and a message in chat.
 
 ## Commands list:
-prac_ctbots - Adds 5 CT Bots. 
+prac_ctbots - Adds CT Bots. 
 
-prac_tbots - Adds 5 T Bots. 
+prac_tbots - Adds T Bots. 
 
 prac_kickbots - Kicks all bots.  
 
@@ -44,7 +44,7 @@ prac_killfeed - Toggles 'Killfeed'.
 
 prac_potato - Turns ON Potato Mode for Low-End-PCs. 
  - It DOES NOT mess with your config.
-   - To revert type 'revert_potato'.
+   - To revert type 'prac_potatorevert'.
 
 prac_hsonly - Toggles 'Headshots Only'.  
 
@@ -73,7 +73,8 @@ prac_recoil_off - Turns OFF 'Crosshair Follow Recoil'.
 
 prac_pause - Pauses the match. * Only 'Test Match'      
 
-prac_unpause - Unpauses the match. * Only 'Test Match'   
+prac_unpause - Unpauses the match. * Only 'Test Match'  
+ - Please keep in mind that if you do not disable it this will be enabled everywhere. Ex. FACEIT 
 
 prac_testmatch - Activates a 'Test Match' mode. 
  - To test out your new skills or fight with your friends.
@@ -89,15 +90,21 @@ prac_help - Shows again this panel with all commands.
 
 prac_multiplayer - Shows how to play multiplayer.
 
+prac_links - Useful links for more practice methods.
+
 ###  Press N to noclip.
 
-join_tool - Allows a player to join the practice tool with host. * Users MUST install the config too.
+join_tool - Makes a player on the server, an user of practice tool with host.
 
 killent - Kills all throwables on the map.
+
+here - Places a bot at current crosshair position.
    
 lan - Sets the server as private LAN.       
 
 rg - Restarts the game in 1 second.      
+
+rt - Rethrows your last thrown any grenade.
 
 dc - Disconnects from the server.          
 
