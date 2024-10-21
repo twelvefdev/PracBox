@@ -2,7 +2,6 @@
 ## What's this?
 Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, easy & accessible with lots of features & customizations.
 ## Installation
-### [YouTube Guide](https://youtube.com)
 1. In your Steam library, right click on 'Counter-Strike 2'
 2. 'Properties'
 3. 'Local Files'
