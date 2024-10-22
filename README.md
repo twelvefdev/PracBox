@@ -78,6 +78,8 @@ prac_recoil_off - Turns OFF 'Crosshair Follow Recoil'.
 > 
 > Please keep in mind that if you do not disable it, this will be enabled everywhere until you disable it.
 
+prac_roundlimit - Toggles 'Round Limit'. * Only 'Test Match'
+
 prac_pause - Pauses the match. * Only 'Test Match'      
 
 prac_unpause - Unpauses the match. * Only 'Test Match'  
@@ -101,6 +103,8 @@ prac_help - Shows a panel with command list and other features.
 prac_multiplayer - Shows how to play multiplayer.
 
 prac_links - Useful links for more practice methods.
+
+prac_muteui - Mute all UI sound effects of the tool.
 
 ###  Press N to noclip.
 
