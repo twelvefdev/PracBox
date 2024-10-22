@@ -2,6 +2,7 @@
 ## What's this?
 Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, easy & accessible with lots of features & customizations.
 ## Installation
+### [VirusTotal](https://www.virustotal.com/gui/file/d87ce060ec802b5d75ea6f8c1c40df55fffb77ae2979ff9b569d6461519e9003)
 1. In your Steam library, right click on 'Counter-Strike 2'
 2. 'Properties'
 3. 'Local Files'
@@ -23,7 +24,9 @@ prac_tbots - Adds T Bots.
 
 prac_kickbots - Kicks all bots.  
 
-prac_freezebots - Freezes all bots.   
+prac_freezebots - Freezes all bots.  
+> [!NOTE]
+> You change the amount of bots with 'bot_quota'.
 
 prac_godmode - Toggles 'God Mode'.  
 
@@ -42,8 +45,10 @@ prac_alltalk - Toggles 'All Talk'.
 prac_killfeed - Toggles 'Killfeed'.  
 
 prac_potato - Turns ON Potato Mode for Low-End-PCs. 
- - It DOES NOT mess with your config.
-   - To revert type 'prac_potatorevert'.
+> [!IMPORTANT]
+> It does not mess with your config.
+> 
+> To revert type 'prac_potatorevert'.
 
 prac_hsonly - Toggles 'Headshots Only'.  
 
@@ -68,18 +73,24 @@ prac_throwpreview - Toggles 'Grenade Throw Preview'.
 prac_recoil_on - Turns ON 'Crosshair Follow Recoil'.
 
 prac_recoil_off - Turns OFF 'Crosshair Follow Recoil'.
- - Please keep in mind that if you do not disable it, this will be enabled everywhere. Ex. FACEIT
+> [!WARNING]
+> 'Crosshair Follow Recoil'
+> 
+> Please keep in mind that if you do not disable it, this will be enabled everywhere until you disable it.
 
 prac_pause - Pauses the match. * Only 'Test Match'      
 
 prac_unpause - Unpauses the match. * Only 'Test Match'  
- - Please keep in mind that if you do not disable it this will be enabled everywhere. Ex. FACEIT 
+> [!NOTE]
+> Pausing the match only works at freezetimes.
 
 prac_testmatch - Activates a 'Test Match' mode. 
- - To test out your new skills or fight with your friends.
+> [!TIP]
+> To test out your new skills or fight with your friends.
 
 prac_warmup - Activates a 'Warmup' mode. 
- - Default game mode with infinite warmup.
+> [!NOTE]
+> Default game mode with infinite warmup.
 
 prac_custom - Executes custom settings for the tool.
 
@@ -110,18 +121,22 @@ dc - Disconnects from the server.
 q - Closes the game.                        
 
 ### Change current level:  
-- To change the map, just type in console the map name! 
-  - Dust2, Mirage, Italy, Inferno and etc...   
+> [!TIP]
+> - To change the map, just type in console the map name!
+>   
+> - Dust2, Mirage, Italy, Inferno and etc...   
 
-### Custom knifes on server:        
-- Yes. You can give yourself any vanilla knife here.    
-  - Just also type in the name of the knife and voilà.    
-  - M9Bayonet, DefaultKnife, Talon, Butterfly and etc...   
+### Custom knifes on server:  
+> [!TIP]
+> - Yes. You can give yourself any vanilla knife here.
+> - Just also type in the name of the knife and voilà.
+> - M9Bayonet, DefaultKnife, Talon, Butterfly and etc...   
 
-### Customization for the config:      
-- In the folder you can find 'practice_tool_custom.cfg'
-- In this file you can put any commands and settings
-- to your own liking, it will be executed when:  
-  - Changing game modes & at the start of the config.  
-  - Make sure your customizations are also in the the RCON.   
-  - 'practice_tool/rcon/rcon_custom.cfg'    
+### Customization for the config:
+> [!TIP]
+> - In the folder you can find 'practice_tool_custom.cfg'
+> - In this file you can put any commands and settings
+> - to your own liking, it will be executed when:
+> - Changing game modes & at the start of the config.
+> - Make sure your customizations are also in the the RCON.
+> - 'practice_tool/rcon/rcon_custom.cfg'    
