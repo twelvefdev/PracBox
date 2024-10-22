@@ -16,6 +16,8 @@ Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, ea
 ## How To Use?
 After installation, launch any map with Competitive game mode, make sure you have admin permissions and type in console 'prac'. The config will then launch.
 Any successful changes will give a sound cue and a message in chat.
+## Contact
+If you do run into some issues, feel free to message me on Discord: **twelvef**
 
 ## Commands list:
 prac_ctbots - Adds CT Bots. 
