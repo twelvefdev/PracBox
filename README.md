@@ -1,4 +1,4 @@
-# ezPrac
+# prac.gg
 ## What's this?
 Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, easy & accessible with lots of features & customizations.
 ## Installation
