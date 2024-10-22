@@ -12,7 +12,7 @@ Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, ea
 8. Put the 'practice_tool' folder there.
 9. The config contains a ready 'autoexec.cfg' if you already have one, please copy it's content to yours. 
 10. Done.
-## How to use?
+## How To Use?
 After installation, launch any map with Competitive game mode and type in console 'prac'. The config will then launch.
 Any successful changes will give a sound cue and a message in chat.
 
