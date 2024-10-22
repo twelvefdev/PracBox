@@ -2,7 +2,7 @@
 ## What's this?
 Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, easy & accessible with lots of features & customizations.
 ## Installation
-### [VirusTotal](https://www.virustotal.com/gui/file/d87ce060ec802b5d75ea6f8c1c40df55fffb77ae2979ff9b569d6461519e9003)
+### [VirusTotal](https://www.virustotal.com/gui/file/baffe93bfa4e347e7bbe423c5d71bf7860f9533695c5bab8feedc9612fc39f0e?nocache=1)
 1. In your Steam library, right click on 'Counter-Strike 2'
 2. 'Properties'
 3. 'Local Files'
