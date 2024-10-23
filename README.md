@@ -107,7 +107,7 @@ prac_multiplayer - Shows how to play multiplayer.
 
 prac_links - Useful links for more practice methods.
 
-prac_muteui - Mute all UI sound effects of the tool.
+prac_uisfx - Toggles all UI sound effects of the tool.
 
 ###  Press N to noclip.
 
