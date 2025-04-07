@@ -1,5 +1,5 @@
-# prac.gg
-![pracgg_header](https://cdn.discordapp.com/attachments/1028340229905596488/1298239637743206440/repository-open-graph-template.png?ex=6718d761&is=671785e1&hm=d5597dd6a34364895849cec5149cdd733f16e99ad4c3d6f507ec314127dd99d5&)
+# PracBox
+![pracbox_header](https://i.imgur.com/c8nXSIU.png)
 ## What's this?
 Counter-Strike 2 Practice Tool, made for more advanced practicing, but quick, easy & accessible with lots of features & customizations.
 ## Installation
@@ -21,6 +21,8 @@ Any successful changes will give a sound cue and a message in chat.
 If you do run into some issues, feel free to message me on Discord: **twelvef**
 
 ## Commands list:
+prac_music - Show list of music kits & select.
+
 prac_ctbots - Adds CT Bots. 
 
 prac_tbots - Adds T Bots. 
@@ -107,11 +109,15 @@ prac_multiplayer - Shows how to play multiplayer.
 
 prac_links - Useful links for more practice methods.
 
-prac_uisfx - Toggles all UI sound effects of the tool.
+prac_uisfx - Toggles all UI sound effects & music of the tool.
 
 ###  Press N to noclip.
 
 join_tool - Makes a player on the server, an user of practice tool with host.
+
+playmusic - Plays selected music kit.
+
+stopmusic - Stops selected music kit.
 
 killent - Kills all throwables on the map.
 
